@@ -74,13 +74,44 @@ sections:
       title: 'Publication and Working Papers'
       subtitle: ''
       text: |-
-        #Publication
-        1. 
-          
-        #Working Papers
-        2.
-        3. 
-        4.
+        ## Publication
+        
+        
+        **1. Title **
+        
+        
+        ## Working Papers
+        
+        
+        **2. Title**
+
+
+        **3. Title**
+        
+        
+        **4. Title**
+        
+        
+    design:
+      columns: '1'
+  
+  - block: markdown
+    id: teaching
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+        
+        **Teaching Assistant:** 
+
+
+        **Graduate Advisor:** 
+
+
+        **Guest Lecture:** 
+
+
+
     design:
       columns: '1'
 
