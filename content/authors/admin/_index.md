@@ -44,7 +44,7 @@ profiles:
   #- icon: academicons/google-scholar
     #url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-2469-1612
 
 interests:
   - Contentious Politics
@@ -52,21 +52,22 @@ interests:
   - Text-as-Data
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Political Science and Social Data Analytics (expected)
+    institution: Penn State University
+    date_start: 2021-01-01
+    date_end: 2026-12-31
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 #Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+
+  - area: BA Political Science (Honours)
+    institution: McGill University
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #summary: |
+    #  GPA: 3.4/4.0
 
 #work:
 #  - position: Director of Cloud Infrastructure
@@ -168,4 +169,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a dual-title Ph.D. candidate in Political Science and Social Data Analytics at Pennsylvania State University, where I expect to defend my dissertation in Spring 2026. My substantive research interest focuses on everyday resistance in authoritarian regimes. Methodologically, I am interested in text-as-data, network analysis, interviews in sensitive contexts, and survey experiments. While I have published and working papers in cross-national and democratic contexts, I have regional expertise in China. My work is forthcoming on _Social Media + Society_ or is under review at the _American Journal of Political Science_. 
