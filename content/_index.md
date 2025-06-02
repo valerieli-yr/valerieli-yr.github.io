@@ -38,7 +38,7 @@ sections:
       subtitle: 'Contentious Unity: Networks of Public Grievances in China'
       text: |-
         
-        #### **Contentious Unity: Networks of Public Grievances in China**
+        ### **Contentious Unity: Networks of Public Grievances in China**
         
         While the repression literature focuses on the threat of coordinated actions against the state, this book project establishes an alternative pathway that explains repression despite low-level participation. It captures the unity of dissident actions where groups act together in similar ways. Ideas become more threatening to the state when they are seen as coordinated, thus identifying a latent grievance. Therefore, I argue that the state is more likely to repress when contentious actions are unified even given low levels of participation or coordination. Furthermore, I argue that aggrieved citizens participate in contentions actions despite the risk of repression, especially when demanding private goods, when the leadership shows tactical competence, and when participants share common demographic attributes. 
         
