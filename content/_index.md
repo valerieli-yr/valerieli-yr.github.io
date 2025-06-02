@@ -44,6 +44,7 @@ sections:
 
     design:
       columns: '1'
+      css_class: text-wide
 
 #  - block: collection
 #    id: papers
@@ -92,7 +93,7 @@ sections:
         
     design:
       columns: '1'
-      css_class: my-wide-block
+      css_class: text-wide
   
   - block: markdown
     id: teaching
@@ -112,7 +113,7 @@ sections:
 
     design:
       columns: '1'
-      css_class: my-wide-block
+      css_class: text-wide
 
 #  - block: collection
 #    id: talks
