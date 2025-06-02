@@ -92,6 +92,7 @@ sections:
         
     design:
       columns: '1'
+      css_class: my-wide-block
   
   - block: markdown
     id: teaching
@@ -111,6 +112,7 @@ sections:
 
     design:
       columns: '1'
+      css_class: my-wide-block
 
 #  - block: collection
 #    id: talks
