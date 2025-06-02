@@ -10,7 +10,7 @@ appearance:
 
 # custom css
 custom_css:
-  - custom.css
+  - css/custom.css
 
 # SEO
 marketing:
