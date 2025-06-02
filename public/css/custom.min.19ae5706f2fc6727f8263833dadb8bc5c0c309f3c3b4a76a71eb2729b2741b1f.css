@@ -1,9 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer utilities {
-  .text-wide {
+@tailwind base;@tailwind components;@tailwind utilities;@layer utilities{.text-wide {
     @apply w-full max-w-full px-0 mx-0;
   }
 
