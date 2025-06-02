@@ -82,15 +82,21 @@ sections:
         **Abstract:** TikTok and the associated technologies for recording and editing short-form video constitute a large and growing portion of online communication. Previous modalities of social media, including static images and especially text, engendered significant attention to the facticity of the communication: was a statement true or false? Did an event actually take place? For a certain genre of stylized, highly edited short-form video, this is besides the point -- which is to produce a compelling video that portrays a prominent figure in a particular light. We conduct an experiment to evaluate whether "edits" of prominent politicians can change voter perceptions. We find that "thirst trap" edits cause an increase in perceptions of politician attractiveness, and that "badass" edits improve overall evaluations of Donald Trump (but not Joe Biden). Descriptively, we present a distribution of the evaluations of the attractiveness  of Trump, Biden, Bernie Sanders and Robert F. Kennedy Jr ("RFK"), demonstrating significant variation.  
         
         
+
+
         **2. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”** 
 
         **Abstract:** Does performing loyalty to the state lead to better outcomes for citizens under authoritarian rule? Existing literature on civil resistance in authoritarian regimes implicitly assumes that when citizens adopt the language of the state in their claims-making, they increase their chances of success. However, using text data from China’s Mayor’s Mailbox—a digital petition platform through which citizens appeal to local leaders—I find adopting state rhetoric leads to worse outcomes. Further analysis reveals that this effect is conditional on the level of political threat. When demands are more threatening, state rhetoric becomes more effective. An online survey experiment in India supports the behavioral mechanisms uncovered in the observational data. These findings contribute to our understanding of everyday resistance under authoritarianism. Performing loyalty not only imposes costs but may also radicalize individuals following failed engagements with the state, thereby contributing to explaining autocratic instability and democratization.
+
+
 
 
         **3. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak, Shan-Jan Sarah Liu, and Burcin Tamer, Under Review at the _American Journal of Political Science_
 
         **Abstract:** Protest has become a normal form of political participation in many countries, although the degree to which protest is considered a legitimate form of civic engagement varies both across countries and across individuals within countries. This paper explores how national protest contexts influence adolescents’ protest propensity. Using cross-national surveys of 14-year-olds from 42 democracies, we show that adolescents are more willing to engage in lesser-known forms of peaceful protests than institutionalized, confrontational, or violent activities. Furthermore, using a quasi-experiment of a large protest of the G-20 meeting during the fielding of the 2009 survey in England, we demonstrate that a highly visible protest event can change adolescents’ propensity and attitude towards engaging in protest in the short run. This paper expands our knowledge of how national contexts affect adolescents’ different protest activities, raising implications for how democracies create environments that cultivate and improve civic engagement at a young age.  
         
+        
+
         
         **4. Framing Conflict: Shifting Conflict Narratives during the Troubles in Northern Ireland**, with Cyanne E. Loyle
         
