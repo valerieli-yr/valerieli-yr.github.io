@@ -8,10 +8,6 @@ appearance:
   mode: system
   color: blue
 
-# custom css
-#custom_css:
-#  - css/custom.css
-
 # SEO
 marketing:
   seo:
