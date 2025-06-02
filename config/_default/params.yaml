@@ -9,8 +9,8 @@ appearance:
   color: blue
 
 # custom css
-custom_css:
-  - css/custom.css
+#custom_css:
+#  - css/custom.css
 
 # SEO
 marketing:
