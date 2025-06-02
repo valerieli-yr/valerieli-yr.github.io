@@ -1,4 +1,5 @@
 .my-wide-block .markdown-body {
-  max-width: 75%;
-  width: 75%;
+  max-width: 100%;
+  width: 100%;
+  font-size: 0.95rem;
 }
