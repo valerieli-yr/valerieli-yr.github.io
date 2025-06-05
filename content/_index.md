@@ -80,7 +80,7 @@ sections:
       subtitle: ''
       text: |-
         
-        **Publication: 1. Thirst Traps and Quick Cuts: The Effects of TikTok 'Edits' on Evaluations of Politicians**, with Kevin Munger. Forthcoming at _Social Media + Society_. 
+        **1. Thirst Traps and Quick Cuts: The Effects of TikTok 'Edits' on Evaluations of Politicians**, with Kevin Munger. Forthcoming at _Social Media + Society_. 
 
         **Abstract:** TikTok and the associated technologies for recording and editing short-form video constitute a large and growing portion of online communication. Previous modalities of social media, including static images and especially text, engendered significant attention to the facticity of the communication: was a statement true or false? Did an event actually take place? For a certain genre of stylized, highly edited short-form video, this is besides the point -- which is to produce a compelling video that portrays a prominent figure in a particular light. We conduct an experiment to evaluate whether "edits" of prominent politicians can change voter perceptions. We find that "thirst trap" edits cause an increase in perceptions of politician attractiveness, and that "badass" edits improve overall evaluations of Donald Trump (but not Joe Biden). Descriptively, we present a distribution of the evaluations of the attractiveness  of Trump, Biden, Bernie Sanders and Robert F. Kennedy Jr ("RFK"), demonstrating significant variation.  
         
@@ -104,7 +104,7 @@ sections:
         <br><br>
 
 
-        **Job Market Paper: 4. Rethinking Collective Action: Cohesive Networks of Public Complaints in Authoritarian China**
+        **4. Rethinking Collective Action: Cohesive Networks of Public Complaints in Authoritarian China**, Job Market Paper
 
         **Abstract:** What explains state repression of civil resistance with low-level participation? This paper argues that “cohesion” in contentious behaviors—agreement on demand goals
         or framing strategies—predicts state repression. Cohesive actions can emerge through collective efforts, imitation of others, or repeated behaviors by a single actor. Even without a large crowd, cohesive demands pose a threat to the state by disseminating a coherent political message about shared societal grievances. Using text data on online public complaints from China (N=135,147), I employ a text reuse detection method to identify cohesive networks of public complaints. Spatial analysis results demonstrate that engaging in cohesive actions reduces the likelihood of state concessions for a persistent single actor, but increases the likelihood of concession for group actors. This paper advances the study of contentious politics by moving beyond protest participation and revealing the prevalence and consequences of cohesive contentious behaviors in autocracies.
@@ -127,7 +127,7 @@ sections:
 
 
 
-        **Works in Progress: 6. Drivers of Connective Actions: Evidence from Two Survey Experiments" 
+        **6. Drivers of Connective Actions: Evidence from Two Survey Experiments"**, Works in Progress 
 
         **Abstract:** 
 
@@ -150,9 +150,11 @@ sections:
 
         **Graduate Advisor:** Political Science Horizons at Penn State, Fall 2022
 
+        * Undergraduate mentorship program for career success in Political Science 
+
 
         **Guest Lecture:** GLIS 102 Global Pathways, Spring 2025
-
+        *  "Human Rights and Regime Type"
 
     design:
       columns: '1'
