@@ -34,7 +34,7 @@ sections:
   - block: markdown
     id: dissertation
     content:
-      title: 'Book Project'
+      title: 'Dissertation and Book Project'
       subtitle: 'Contentious Unity: Networks of Public Grievances in China'
       text: |-
         
@@ -80,30 +80,59 @@ sections:
       subtitle: ''
       text: |-
         
-        **1. Thirst Traps and Quick Cuts: The Effects of TikTok 'Edits' on Evaluations of Politicians**, with Kevin Munger. Accepted and Forthcoming at _Social Media + Society_. 
+        **Publication: 1. Thirst Traps and Quick Cuts: The Effects of TikTok 'Edits' on Evaluations of Politicians**, with Kevin Munger. Forthcoming at _Social Media + Society_. 
 
         **Abstract:** TikTok and the associated technologies for recording and editing short-form video constitute a large and growing portion of online communication. Previous modalities of social media, including static images and especially text, engendered significant attention to the facticity of the communication: was a statement true or false? Did an event actually take place? For a certain genre of stylized, highly edited short-form video, this is besides the point -- which is to produce a compelling video that portrays a prominent figure in a particular light. We conduct an experiment to evaluate whether "edits" of prominent politicians can change voter perceptions. We find that "thirst trap" edits cause an increase in perceptions of politician attractiveness, and that "badass" edits improve overall evaluations of Donald Trump (but not Joe Biden). Descriptively, we present a distribution of the evaluations of the attractiveness  of Trump, Biden, Bernie Sanders and Robert F. Kennedy Jr ("RFK"), demonstrating significant variation.  
         
         <br><br>
 
-
-        **2. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”** 
-
-        **Abstract:** Does performing loyalty to the state lead to better outcomes for citizens under authoritarian rule? Existing literature on civil resistance in authoritarian regimes implicitly assumes that when citizens adopt the language of the state in their claims-making, they increase their chances of success. However, using text data from China’s Mayor’s Mailbox—a digital petition platform through which citizens appeal to local leaders—I find adopting state rhetoric leads to worse outcomes. Further analysis reveals that this effect is conditional on the level of political threat. When demands are more threatening, state rhetoric becomes more effective. An online survey experiment in India supports the behavioral mechanisms uncovered in the observational data. These findings contribute to our understanding of everyday resistance under authoritarianism. Performing loyalty not only imposes costs but may also radicalize individuals following failed engagements with the state, thereby contributing to explaining autocratic instability and democratization.
-
-        <br><br>
-
-
-        **3. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak, Shan-Jan Sarah Liu, and Burcin Tamer, Under Review at the _American Journal of Political Science_
+        **2. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak, Shan-Jan Sarah Liu, and Burcin Tamer, Under Review at the _American Journal of Political Science_
 
         **Abstract:** Protest has become a normal form of political participation in many countries, although the degree to which protest is considered a legitimate form of civic engagement varies both across countries and across individuals within countries. This paper explores how national protest contexts influence adolescents’ protest propensity. Using cross-national surveys of 14-year-olds from 42 democracies, we show that adolescents are more willing to engage in lesser-known forms of peaceful protests than institutionalized, confrontational, or violent activities. Furthermore, using a quasi-experiment of a large protest of the G-20 meeting during the fielding of the 2009 survey in England, we demonstrate that a highly visible protest event can change adolescents’ propensity and attitude towards engaging in protest in the short run. This paper expands our knowledge of how national contexts affect adolescents’ different protest activities, raising implications for how democracies create environments that cultivate and improve civic engagement at a young age.  
         
+        * Presented at 2023 Annual MPSA Conference, 2023
+
         <br><br>
 
 
-        **4. Framing Conflict: Shifting Conflict Narratives during the Troubles in Northern Ireland**, with Cyanne E. Loyle
+        **3. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”** 
+
+        **Abstract:** Does performing loyalty to the state lead to better outcomes for citizens under authoritarian rule? Existing literature on civil resistance in authoritarian regimes implicitly assumes that when citizens adopt the language of the state in their claims-making, they increase their chances of success. However, using text data from China’s Mayor’s Mailbox—a digital petition platform through which citizens appeal to local leaders—I find adopting state rhetoric leads to worse outcomes. Further analysis reveals that this effect is conditional on the level of political threat. When demands are more threatening, state rhetoric becomes more effective. An online survey experiment in India supports the behavioral mechanisms uncovered in the observational data. These findings contribute to our understanding of everyday resistance under authoritarianism. Performing loyalty not only imposes costs but may also radicalize individuals following failed engagements with the state, thereby contributing to explaining autocratic instability and democratization.
+
+        * Presented at 2024 Annual SPSA Conference, Conference-within-a-Conference:“The Politics of Authoritarian Regimes”
+
+        <br><br>
+
+
+        **Job Market Paper: 4. Rethinking Collective Action: Cohesive Networks of Public Complaints in Authoritarian China**
+
+        **Abstract:** What explains state repression of civil resistance with low-level participation? This paper argues that “cohesion” in contentious behaviors—agreement on demand goals
+        or framing strategies—predicts state repression. Cohesive actions can emerge through collective efforts, imitation of others, or repeated behaviors by a single actor. Even without a large crowd, cohesive demands pose a threat to the state by disseminating a coherent political message about shared societal grievances. Using text data on online public complaints from China (N=135,147), I employ a text reuse detection method to identify cohesive networks of public complaints. Spatial analysis results demonstrate that engaging in cohesive actions reduces the likelihood of state concessions for a persistent single actor, but increases the likelihood of concession for group actors. This paper advances the study of contentious politics by moving beyond protest participation and revealing the prevalence and consequences of cohesive contentious behaviors in autocracies.
+
+        * Scheduled to present at 2025 Annual APSA Conference and 2025 Fall Chinese Politics Research in Progress 
+
+
+        <br><br>
+
+
+        **5. Framing Conflict: Shifting Conflict Narratives during the Troubles in Northern Ireland**, with Cyanne E. Loyle
         
         **Abstract:** In times of war and peace, governments strategically use rhetoric to generate support for their policies and actions. Particularly in times of conflict, governments rally the troops and their country behind their war policies through the way they speak about and frame their actions. While scholars have long recognized the importance of rhetoric in politics, issue frames have been notoriously hard to measure. Recent methodological developments in natural language processing allow for new data to be brought to bear on the topic of how issues are framed. Furthermore, these innovations allow for new theoretical advances in how and why frame shifts occur. Using these techniques, we examine the concept of dynamic issue framing in the case of the thirty-year civil war in Northern Ireland. We identify the dominant conflict frames propagated by the British government and study the conditions under which these frames shift overtime. How governments talk about a conflict matters for its policies as well as public support for its actions. Through understanding how the British government framed its engagement in Northern Ireland we can learn more about the politics of issue framing in democracies at war and beyond.
+
+        * Presented at Online Peace Science Colloquium, 2023
+        * Presented at Junior Scholars in Quantitative Conflict, 2024
+
+
+        <br><br>
+
+
+
+        **Works in Progress: 6. Drivers of Connective Actions: Evidence from Two Survey Experiments" 
+
+        **Abstract:** 
+
+
+        <br><br>
         
     design:
       columns: '1'
