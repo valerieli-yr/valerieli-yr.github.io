@@ -128,9 +128,6 @@ sections:
 
 
         **6. Drivers of Connective Actions: Evidence from Two Survey Experiments"**, Works in Progress 
-
-
-        <br><br>
         
     design:
       columns: '1'
