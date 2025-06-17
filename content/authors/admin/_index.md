@@ -169,4 +169,4 @@ languages:
 
 ## About Me
 
-I am a dual-title Ph.D. candidate in Political Science and Social Data Analytics at Pennsylvania State University, where I expect to defend my dissertation in Spring 2026. My substantive research interest focuses on everyday resistance in authoritarian regimes. Methodologically, I am interested in text-as-data, network analysis, interviews in sensitive contexts, and survey experiments. While I have published and working papers in cross-national and democratic contexts, I have regional expertise in China. My work is forthcoming on _Social Media + Society_.
+I am a dual-title Ph.D. candidate in Political Science and Social Data Analytics at Pennsylvania State University, where I expect to defend my dissertation in Spring 2026. My substantive research interest focuses on everyday resistance in authoritarian regimes. Methodologically, I am interested in text-as-data, network analysis, interviews in sensitive contexts, and survey experiments. While I have published work and working papers on cross-national and democratic contexts, my regional expertise is in China. My work is forthcoming on _Social Media + Society_.
