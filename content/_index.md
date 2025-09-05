@@ -137,7 +137,7 @@ sections:
     content:
       title: 'Teaching'
       subtitle: ''
-      text: |-
+      text: |
         
         **Teaching Assistant:** PLSC 498 Text-As-Data, Fall 2022
 
@@ -149,7 +149,7 @@ sections:
         *  "Human Rights and Regime Type"
 
         **Workshop Instructor:** Open Scholarship Bootcamp, Summer 2025
-        *  "LLMs with Jupyter Notebooks", '[workshop materials](/uploads/LLM tutorial for 2025 Open Scholarship Bootcamp.ipynb)'
+        *  "LLMs with Jupyter Notebooks", [workshop materials](/uploads/LLM tutorial for 2025 Open Scholarship Bootcamp.ipynb)
 
     design:
       columns: '1'
