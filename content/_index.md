@@ -35,15 +35,12 @@ sections:
     id: dissertation
     content:
       title: 'Dissertation and Book Project'
-      subtitle: 'Contentious Unity: Networks of Public Grievances in China'
+      subtitle: 'Speaking As One: The Logic of Collective Action Unity under Autocracy'
       text: |-
         
-        ### **Contentious Unity: Networks of Public Grievances in China**
+        ### **Speaking As One: The Logic of Collective Action Unity under Autocracy**
         
-        While the repression literature focuses on the threat of coordinated actions against the state, this book project establishes an alternative pathway that explains repression despite low-level participation. It captures the unity of dissident actions where groups act together in similar ways. Ideas become more threatening to the state when they are seen as coordinated, thus identifying a latent grievance. Therefore, I argue that the state is more likely to repress when contentious actions are unified even given low levels of participation or coordination. Furthermore, I argue that aggrieved citizens participate in contentions actions despite the risk of repression, especially when demanding private goods, when the leadership shows tactical competence, and when participants share common demographic attributes. 
-        
-        
-        I test my theory using administrative data from China’s petitioning platform, the Mayor’s Mailbox. The Mayor’s Mailbox is a public forum that allows citizens to register grievances against local government. This data source allows me to identify collective action potential in an authoritarian regime with historically little space for public dissent. Using a novel text reuse detection algorithm, the S-W algorithm, I measure and validate whether two individually submitted petitions contain a high degree of textual alignment and, thus, are suspects of group actions. These dyadic relationships thus form networks of public grievances in China. Empirical chapters of my dissertation find that approximately 13% of all petitions submitted to the Mayor’s Mailbox have at least one connection to another petition. Furthermore, spatial analysis shows local governments tend to make concessions to unified petitions submitted by a group but punish repetitive petitions submitted by an individual. Lastly, survey experiments conducted in Thailand and India also show support for my arguments. 
+        Why do authoritarian states respond to civil resistance with low-level participation? I argue that the level of unity in contentious behaviors — the degree to which dissidents act in one and the same way — also matters. Even without large crowds, higher unity can threaten the state by disseminating a coherent political message, signaling protestors’ resolve, or revealing a shared societal grievance. My dissertation investigates what drives unified actions and how unity affects state response. Using text data on online public complaints in China, I show that action unity reduces the likelihood of state concessions for persistent single actors but increases it for group actors. A survey experiment in Thailand further reveals the conditions under which citizens join unified actions. My research advances the study of contentious politics by shifting focus from protest participation to the prevalence and impact of action unity in autocratic contexts. 
 
     design:
       columns: '1'
@@ -86,7 +83,7 @@ sections:
         
         <br><br>
 
-        **2. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak, Shan-Jan Sarah Liu, and Burcin Tamer, Under Review at the _American Journal of Political Science_
+        **2. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak and Shan-Jan Sarah Liu, Under Review at _Political Behavior_
 
         **Abstract:** Protest has become a normal form of political participation in many countries, although the degree to which protest is considered a legitimate form of civic engagement varies both across countries and across individuals within countries. This paper explores how national protest contexts influence adolescents’ protest propensity. Using cross-national surveys of 14-year-olds from 42 democracies, we show that adolescents are more willing to engage in lesser-known forms of peaceful protests than institutionalized, confrontational, or violent activities. Furthermore, using a quasi-experiment of a large protest of the G-20 meeting during the fielding of the 2009 survey in England, we demonstrate that a highly visible protest event can change adolescents’ propensity and attitude towards engaging in protest in the short run. This paper expands our knowledge of how national contexts affect adolescents’ different protest activities, raising implications for how democracies create environments that cultivate and improve civic engagement at a young age.  
         
@@ -95,7 +92,7 @@ sections:
         <br><br>
 
 
-        **3. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”** 
+        **3. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”**, Under Review at _Comparative Political Studies_ 
 
         **Abstract:** Does performing loyalty to the state lead to better outcomes for citizens under authoritarian rule? Existing literature on civil resistance in authoritarian regimes implicitly assumes that when citizens adopt the language of the state in their claims-making, they increase their chances of success. However, using text data from China’s Mayor’s Mailbox—a digital petition platform through which citizens appeal to local leaders—I find adopting state rhetoric leads to worse outcomes. Further analysis reveals that this effect is conditional on the level of political threat. When demands are more threatening, state rhetoric becomes more effective. An online survey experiment in India supports the behavioral mechanisms uncovered in the observational data. These findings contribute to our understanding of everyday resistance under authoritarianism. Performing loyalty not only imposes costs but may also radicalize individuals following failed engagements with the state, thereby contributing to explaining autocratic instability and democratization.
 
@@ -126,7 +123,6 @@ sections:
         <br><br>
 
 
-
         **6. Drivers of Connective Actions: Evidence from Two Survey Experiments"**, Works in Progress 
         
     design:
@@ -142,14 +138,15 @@ sections:
         
         **Teaching Assistant:** PLSC 498 Text-As-Data, Fall 2022
 
-
         **Graduate Advisor:** Political Science Horizons at Penn State, Fall 2022
 
         * Undergraduate mentorship program for career success in Political Science 
 
-
         **Guest Lecture:** GLIS 102 Global Pathways, Spring 2025
         *  "Human Rights and Regime Type"
+
+        **Workshop Instructor:** Open Scholarship Bootcamp, Summer 2025
+        *  "LLMs with Jupyter Notebooks"
 
     design:
       columns: '1'
