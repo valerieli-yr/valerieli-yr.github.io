@@ -123,7 +123,10 @@ sections:
         <br><br>
 
 
-        **6. Drivers of Connective Actions: Evidence from Two Survey Experiments"**, Works in Progress 
+        **6. Drivers of Connective Actions: Evidence from Two Survey Experiments"**, Works in Progress
+        
+        
+        **7. State Repression and the Law: Domestic Lawfare, Autocratic Legalism, and the Future of the Judiciary"**, with Cyanne E. Loyle, Cecilia Cavero Sánchez and Lesley Zhang
         
     design:
       columns: '1'
@@ -146,7 +149,7 @@ sections:
         *  "Human Rights and Regime Type"
 
         **Workshop Instructor:** Open Scholarship Bootcamp, Summer 2025
-        *  "LLMs with Jupyter Notebooks"
+        *  "LLMs with Jupyter Notebooks", '[workshop materials](/uploads/LLM tutorial for 2025 Open Scholarship Bootcamp.ipynb)'
 
     design:
       columns: '1'
