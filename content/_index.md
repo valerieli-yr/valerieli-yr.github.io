@@ -149,8 +149,7 @@ sections:
         *  "Human Rights and Regime Type"
 
         **Workshop Instructor:** Open Scholarship Bootcamp, Summer 2025
-        *  "LLMs with Jupyter Notebooks"
-        *  [workshop materials](uploads/LLM_tutorial.ipynb)
+        *  "LLMs with Jupyter Notebooks", <a href="uploads/LLM_tutorial.ipynb" download>workshop materials</a>
 
     design:
       columns: '1'
