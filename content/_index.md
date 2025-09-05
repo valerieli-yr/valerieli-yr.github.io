@@ -150,7 +150,7 @@ sections:
 
         **Workshop Instructor:** Open Scholarship Bootcamp, Summer 2025
         *  "LLMs with Jupyter Notebooks"
-        *  [workshop materials](static/uploads/LLM_tutorial.ipynb)
+        *  [workshop materials](uploads/LLM_tutorial.ipynb)
 
     design:
       columns: '1'
