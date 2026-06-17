@@ -35,12 +35,12 @@ sections:
     id: dissertation
     content:
       title: 'Dissertation and Book Project'
-      subtitle: 'Speaking As One: The Logic of Collective Action Unity under Autocracy'
+      subtitle: 'The Dyanamics of Digital Claims-Making Under Authoritarian Rule'
       text: |-
         
-        ### **Speaking As One: The Logic of Collective Action Unity under Autocracy**
+        ### **The Dyanamics of Digital Claims-Making Under Authoritarian Rule**
         
-        Why do authoritarian states respond to civil resistance with low-level participation? I argue that the level of unity in contentious behaviors — the degree to which dissidents act in one and the same way — also matters. Even without large crowds, higher unity can threaten the state by disseminating a coherent political message, signaling protestors’ resolve, or revealing a shared societal grievance. My dissertation investigates what drives unified actions and how unity affects state response. Using text data on online public complaints in China, I show that action unity reduces the likelihood of state concessions for persistent single actors but increases it for group actors. A survey experiment in Thailand further reveals the conditions under which citizens join unified actions. My research advances the study of contentious politics by shifting focus from protest participation to the prevalence and impact of action unity in autocratic contexts. 
+        My dissertation project explores how ordinary people engage in politics under authoritarian rule, not through protests or revolutions, but through everyday digital actions like filing complaints, signing petitions, and sharing grievances online. While often dismissed as "low-effort" participation, these activities offer a powerful window into how citizens navigate political constraints and how governments respond. Drawing on large-scale text data from China and original survey experiments in Thailand and India, this project follows the full life cycle of digital claims-making. The first article shows that citizens strategically frame how they communicate with the state, sometimes adopting official rhetoric and performing loyalty to the state, but that such strategy can backfire. The second article examines how exposure to others’ claims influences participation and emulation, highlighting the importance of cues like participation size, identity and social status. The third article investigates mass online campaigns, demonstrating that large-scale participation only matters when combined with meaningful individual effort. Together, this research reveals that even the most mundane forms of digital participation are strategic, unequal, and politically consequential, reshaping how we understand state-society interaction in the digital age.
 
     design:
       columns: '1'
@@ -83,7 +83,7 @@ sections:
         
         <br><br>
 
-        **2. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak and Shan-Jan Sarah Liu, Under Review at _Political Behavior_
+        **2. Learning Protest: How National Protest Contexts Influence Adolescents’ Views of Unconventional Political Participation**, with Lee Ann Banaszak and Shan-Jan Sarah Liu, Under Review
 
         **Abstract:** Protest has become a normal form of political participation in many countries, although the degree to which protest is considered a legitimate form of civic engagement varies both across countries and across individuals within countries. This paper explores how national protest contexts influence adolescents’ protest propensity. Using cross-national surveys of 14-year-olds from 42 democracies, we show that adolescents are more willing to engage in lesser-known forms of peaceful protests than institutionalized, confrontational, or violent activities. Furthermore, using a quasi-experiment of a large protest of the G-20 meeting during the fielding of the 2009 survey in England, we demonstrate that a highly visible protest event can change adolescents’ propensity and attitude towards engaging in protest in the short run. This paper expands our knowledge of how national contexts affect adolescents’ different protest activities, raising implications for how democracies create environments that cultivate and improve civic engagement at a young age.  
         
@@ -92,7 +92,7 @@ sections:
         <br><br>
 
 
-        **3. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”**, Under Review at _Comparative Political Studies_ 
+        **3. Performing Loyalty: Does Adopting State Rhetoric Make Citizen’s Demands-making More Successful?”**, Under Review 
 
         **Abstract:** Does performing loyalty to the state lead to better outcomes for citizens under authoritarian rule? Existing literature on civil resistance in authoritarian regimes implicitly assumes that when citizens adopt the language of the state in their claims-making, they increase their chances of success. However, using text data from China’s Mayor’s Mailbox—a digital petition platform through which citizens appeal to local leaders—I find adopting state rhetoric leads to worse outcomes. Further analysis reveals that this effect is conditional on the level of political threat. When demands are more threatening, state rhetoric becomes more effective. An online survey experiment in India supports the behavioral mechanisms uncovered in the observational data. These findings contribute to our understanding of everyday resistance under authoritarianism. Performing loyalty not only imposes costs but may also radicalize individuals following failed engagements with the state, thereby contributing to explaining autocratic instability and democratization.
 
@@ -101,12 +101,12 @@ sections:
         <br><br>
 
 
-        **4. Rethinking Collective Action: Cohesive Networks of Public Complaints in Authoritarian China**, Job Market Paper
+        **4. Speaking as One: Mass Petition Campaigns in Authoritarian China**, Job Market Paper
 
-        **Abstract:** What explains state repression of civil resistance with low-level participation? This paper argues that “cohesion” in contentious behaviors—agreement on demand goals
-        or framing strategies—predicts state repression. Cohesive actions can emerge through collective efforts, imitation of others, or repeated behaviors by a single actor. Even without a large crowd, cohesive demands pose a threat to the state by disseminating a coherent political message about shared societal grievances. Using text data on online public complaints from China (N=135,147), I employ a text reuse detection method to identify cohesive networks of public complaints. Spatial analysis results demonstrate that engaging in cohesive actions reduces the likelihood of state concessions for a persistent single actor, but increases the likelihood of concession for group actors. This paper advances the study of contentious politics by moving beyond protest participation and revealing the prevalence and consequences of cohesive contentious behaviors in autocracies.
+        **Abstract:** How do citizens make their voice heard and change government behavior under authoritarian rule when mass mobilization is risky and increasingly rare? I examine mass petitioning—high-volume campaigns of identical or near-duplicate petitions submitted to authorities—and assess its implications for state responsiveness. I argue that mass petitions are often rejected because their low-effort, high-volume format signals low political threat to bureaucrats. Using text data from over 100,000 online public complaints submitted to Chinese city governments, I employ a text-reuse detection method to identify more than 4,000 mass petition campaigns. Analyses show that local governments are more likely to reject mass petitions than individual submissions, but this negative association is attenuated when participants substantially modify the form letter, indicating higher effort. This article shows how citizens adapt collective claims-making to online channels and advances understanding of emerging forms of contention under authoritarian rule. 
 
-        * Scheduled to present at 2025 Annual APSA Conference and 2025 Fall Chinese Politics Research in Progress 
+        * Presented at 2025 Annual APSA Conference
+        * Presented at 2025 Fall Chinese Politics Research in Progress 
 
 
         <br><br>

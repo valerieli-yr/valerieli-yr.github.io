@@ -52,10 +52,10 @@ interests:
   - Text-as-Data
 
 education:
-  - area: PhD Political Science and Social Data Analytics (expected)
+  - area: PhD Political Science and Social Data Analytics
     institution: Penn State University
     date_start: 2021-01-01
-    date_end: 2026-12-31
+    date_end: 2026-08-15
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 #Springer journals.
     #button:
@@ -169,4 +169,4 @@ languages:
 
 ## About Me
 
-I am a dual-title Ph.D. candidate in Political Science and Social Data Analytics at Pennsylvania State University, where I expect to defend my dissertation in Spring 2026. My substantive research interest focuses on everyday resistance in authoritarian regimes. Methodologically, I am interested in text-as-data, network analysis, interviews in sensitive contexts, and survey experiments. While I have published work and working papers on cross-national and democratic contexts, my regional expertise is in China. My work is forthcoming on _Social Media + Society_.
+I received my Ph.D. in Political Science and Social Data Analytics from Pennsylvania State University. In Fall 2026, I will join Duke Kunshan University as an Assistant Professor of Computational Social Science. My substantive research interest focuses on everyday resistance in authoritarian regimes. Methodologically, I am interested in text-as-data, network analysis, multimodal data and survey experiments. While I have published work and working papers on cross-national and democratic contexts, my regional expertise is in China. My work appears on _Social Media + Society_. 
