@@ -35,10 +35,10 @@ sections:
     id: dissertation
     content:
       title: 'Dissertation and Book Project'
-      subtitle: 'The Dyanamics of Digital Claims-Making Under Authoritarian Rule'
+      subtitle: 'The Dynamics of Digital Claims-Making Under Authoritarian Rule'
       text: |-
         
-        ### **The Dyanamics of Digital Claims-Making Under Authoritarian Rule**
+        ### **The Dynamics of Digital Claims-Making Under Authoritarian Rule**
         
         My dissertation project explores how ordinary people engage in politics under authoritarian rule, not through protests or revolutions, but through everyday digital actions like filing complaints, signing petitions, and sharing grievances online. While often dismissed as "low-effort" participation, these activities offer a powerful window into how citizens navigate political constraints and how governments respond. Drawing on large-scale text data from China and original survey experiments in Thailand and India, this project follows the full life cycle of digital claims-making. The first article shows that citizens strategically frame how they communicate with the state, sometimes adopting official rhetoric and performing loyalty to the state, but that such strategy can backfire. The second article examines how exposure to others’ claims influences participation and emulation, highlighting the importance of cues like participation size, identity and social status. The third article investigates mass online campaigns, demonstrating that large-scale participation only matters when combined with meaningful individual effort. Together, this research reveals that even the most mundane forms of digital participation are strategic, unequal, and politically consequential, reshaping how we understand state-society interaction in the digital age.
 
