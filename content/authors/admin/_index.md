@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Political Science Ph.D. Candidate
+role: Assistant Professor of Computational Social Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Penn State University
+  - name: Duke Kunshan University
 #    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:valerie.li@psu.edu'
+    url: 'mailto:valerie.li@dukekunshan.edu.cn'
     label: E-mail Me
   #- icon: brands/x
     #url: https://twitter.com/GetResearchDev
@@ -169,4 +169,9 @@ languages:
 
 ## About Me
 
-I received my Ph.D. in Political Science and Social Data Analytics from Pennsylvania State University. In Fall 2026, I will join Duke Kunshan University as an Assistant Professor of Computational Social Science. My substantive research interest focuses on everyday resistance in authoritarian regimes. Methodologically, I am interested in text-as-data, network analysis, multimodal data and survey experiments. While I have published work and working papers on cross-national and democratic contexts, my regional expertise is in China. My work appears on _Social Media + Society_. 
+I'm an Assistant Professor of Computational Social Science at Duke Kunshan University, where I teach computational and statistical methods for the social sciences. I'm also a faculty affiliate of DKU’s Center for the Study of Contemporary China (CSCC).
+
+My substantive research focuses on everyday resistance and state–society relations in authoritarian regimes. Methodologically, I work with text-as-data, network analysis, multimodal data, and survey experiments. Although my published and ongoing research spans both cross-national and democratic contexts, my primary regional expertise is China.
+
+My work has appeared in *Social Media + Society*. I received my Ph.D. in Political Science and Social Data Analytics from Pennsylvania State University.
+
