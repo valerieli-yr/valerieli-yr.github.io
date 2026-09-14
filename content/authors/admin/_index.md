@@ -169,9 +169,5 @@ languages:
 
 ## About Me
 
-I'm an Assistant Professor of Computational Social Science at Duke Kunshan University, where I teach computational and statistical methods for the social sciences. I'm also a faculty affiliate of DKU’s Center for the Study of Contemporary China (CSCC).
-
-My substantive research focuses on everyday resistance and state–society relations in authoritarian regimes. Methodologically, I work with text-as-data, network analysis, multimodal data, and survey experiments. Although my published and ongoing research spans both cross-national and democratic contexts, my primary regional expertise is China.
-
-My work has appeared in *Social Media + Society*. I received my Ph.D. in Political Science and Social Data Analytics from Pennsylvania State University.
+I'm an Assistant Professor of Computational Social Science at Duke Kunshan University, where I teach computational and statistical methods for the social sciences. I'm also a faculty affiliate of DKU’s Center for the Study of Contemporary China (CSCC). My substantive research focuses on everyday resistance and state–society relations in authoritarian regimes. Methodologically, I work with text-as-data, network analysis, multimodal data, and survey experiments. Although my published and ongoing research spans both cross-national and democratic contexts, my primary regional expertise is China. My work has appeared in *Social Media + Society*. I received my Ph.D. in Political Science and Social Data Analytics from Pennsylvania State University.
 
