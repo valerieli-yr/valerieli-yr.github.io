@@ -18,9 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/Valerie_Li_CV.pdf
-      button:
-        text: Book Me
-        url: https://calendar.app.google/PgyWhyydGxVfCqfS6
     design:
       css_class: dark
       background:
